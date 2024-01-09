@@ -1,0 +1,134 @@
+[
+  {
+    "alumno": "Pedro",
+    "nota": 7.09,
+    "ranking": 180,
+    "anio": 2000
+  },
+  {
+    "alumno": "Juan",
+    "nota": 8.5,
+    "ranking": 150,
+    "anio": 2000
+  },
+  {
+    "alumno": "Pedro",
+    "nota": 6.8,
+    "ranking": 195,
+    "anio": 2001
+  },
+  {
+    "alumno": "Juan",
+    "nota": 9.2,
+    "ranking": 120,
+    "anio": 2001
+  },
+  {
+    "alumno": "Pedro",
+    "nota": 7.5,
+    "ranking": 170,
+    "anio": 2002
+  },
+  {
+    "alumno": "Juan",
+    "nota": 8.0,
+    "ranking": 160,
+    "anio": 2002
+  },
+  {
+    "alumno": "Pedro",
+    "nota": 6.5,
+    "ranking": 200,
+    "anio": 2003
+  },
+  {
+    "alumno": "Juan",
+    "nota": 9.5,
+    "ranking": 110,
+    "anio": 2003
+  },
+  {
+    "alumno": "Pedro",
+    "nota": 7.2,
+    "ranking": 175,
+    "anio": 2004
+  },
+  {
+    "alumno": "Juan",
+    "nota": 8.8,
+    "ranking": 140,
+    "anio": 2004
+  },
+  {
+    "alumno": "Pedro",
+    "nota": 6.9,
+    "ranking": 185,
+    "anio": 2005
+  },
+  {
+    "alumno": "Juan",
+    "nota": 9.0,
+    "ranking": 130,
+    "anio": 2005
+  },
+  {
+    "alumno": "Pedro",
+    "nota": 7.8,
+    "ranking": 160,
+    "anio": 2006
+  },
+  {
+    "alumno": "Juan",
+    "nota": 8.3,
+    "ranking": 150,
+    "anio": 2006
+  },
+  {
+    "alumno": "Pedro",
+    "nota": 6.7,
+    "ranking": 190,
+    "anio": 2007
+  },
+  {
+    "alumno": "Juan",
+    "nota": 9.1,
+    "ranking": 125,
+    "anio": 2007
+  },
+  {
+    "alumno": "Pedro",
+    "nota": 7.4,
+    "ranking": 180,
+    "anio": 2008
+  },
+  {
+    "alumno": "Juan",
+    "nota": 8.6,
+    "ranking": 145,
+    "anio": 2008
+  },
+  {
+    "alumno": "Pedro",
+    "nota": 6.6,
+    "ranking": 195,
+    "anio": 2009
+  },
+  {
+    "alumno": "Juan",
+    "nota": 9.4,
+    "ranking": 115,
+    "anio": 2009
+  },
+  {
+    "alumno": "Pedro",
+    "nota": 7.0,
+    "ranking": 170,
+    "anio": 2010
+  },
+  {
+    "alumno": "Juan",
+    "nota": 8.9,
+    "ranking": 135,
+    "anio": 2010
+  }
+]
